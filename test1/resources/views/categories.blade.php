@@ -33,7 +33,7 @@
 <div class="container">
     <div class="starter-template">
         <div class="panel">
-        <a href="http://test1.test/mobiles">
+        <a href="/mobiles">
             <img src="https://iprodavay.com.ua/wp-content/uploads/2021/10/iphone12-pro-max.png" width="225px" height="225px">
             <h2>Мобільні телефони</h2>
         </a>
@@ -42,7 +42,7 @@
         </p>
         </div>
         <div class="panel">
-            <a href="http://test1.test/headphones">
+            <a href="/headphones">
                 <img src="https://fashmobile.com.ua/image/cache/catalog/285119312-228x228.jpg" width="225px" height="225px">
                 <h2>Навушники</h2>
             </a>
@@ -51,7 +51,7 @@
             </p>
         </div>
         <div class="panel">
-            <a href="http://test1.test/laptops">
+            <a href="/laptops">
                 <img src="https://dzvinok.ua/pub/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/a/p/apple_macbook_pro_16_a2991_m3_pro_space_black_mrw13uaa_1_1.webp" width="250px" >
                 <h2>Ноутбуки</h2>
             </a>

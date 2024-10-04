@@ -32,6 +32,7 @@
 <div class="container">
     <div class="starter-template">
         <h1>iPhone 13 mini 256GB</h1>
+        <h2>{{$product}}</h2>
         <p>Ціна: <b>32,999грн</b></p>
         <img src="https://toiler.com.ua/files/resized/products/iphone13_midnight__2021_2024.600x800.jpg">
         <p>Відминний сучасний смартфон з пам'ятю на 256GB</p>

@@ -56,7 +56,7 @@
                         <p>32,999грн</p>
                         <p>
                             <a href="http://test1.test/basket/1/add" class="btn btn-primary" role="button">До корзини</a>
-                            <a href="http://test1.test/mobiles/iphone_13_mini_256" class="btn btn-default" role="button">Докладніше</a>
+                            <a href="http://test1.test/" class="btn btn-default" role="button">Докладніше</a>
                         </p>
                 </div>
             </div>
