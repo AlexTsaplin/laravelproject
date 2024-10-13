@@ -9,8 +9,15 @@ class MainController extends Controller {
     public function home() {
         return view('home');
     }
+    public function categories() {
+        return view('categories');
+    }
     public function about() {
         return view('about');
+    }
+
+    public function questions() {
+        return view('questions');
     }
     public function review() {
         $reviews = new Contact();
