@@ -13,7 +13,7 @@
             <svg class="bd-placeholder-img rounded-circle" width="50" height="50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect></svg>
             <h2 class="fw-normal">Смартфони</h2>
             <p>Залишайтеся на зв'язку та завжди будьте в центрі подій. Вибирайте смартфон, який відповідає вашому стилю та потребам.</p>
-            <p><a class="btn btn-secondary" href="/categories">Переглянути »</a></p>
+            <p><a class="btn btn-secondary" href="/mobile">Переглянути »</a></p>
         </div>
         <div class="col-lg-4">
             <svg class="bd-placeholder-img rounded-circle" width="50" height="50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect></svg>

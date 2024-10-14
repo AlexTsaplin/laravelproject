@@ -5,7 +5,11 @@ namespace App\Http\Controllers;
 use App\Models\Contact;
 use Illuminate\Http\Request;
 
+
+
 class MainController extends Controller {
+
+
     public function home() {
         return view('home');
     }
@@ -23,6 +27,16 @@ class MainController extends Controller {
         $reviews = new Contact();
         return view('review', ['reviews' => $reviews->all()]);
     }
+//    public function mobile() {
+//        return view('mobile');
+//    }
+
+
+    public function apple() {
+        return view('apple');
+    }
+
+
     public function review_check(Request $request) {
         $valid = $request->validate([
             'email' => 'required|min:4|max:100',

@@ -11,7 +11,7 @@
         <div class="col-lg-4 text-center">
             <img src="https://cdn-icons-png.flaticon.com/512/15713/15713816.png " width="300" height="300" style="object-fit: contain; padding-top: 20px"><br><br><br>
             <p>
-                <a class="btn btn-secondary" href="#">Мобільні телефони</a>
+                <a class="btn btn-secondary" href="/mobile">Мобільні телефони</a>
             </p>
         </div>
         <div class="col-lg-4 text-center">
