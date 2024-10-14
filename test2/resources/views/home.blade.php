@@ -36,8 +36,7 @@
                 <div class="card shadow-sm">
                     <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/051004/15-black-1-(1)-(1)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                     <div class="card-body">
-                        <p class="card-text"><h3>Iphone 15 128GB
-                           (Black) (Гарний стан, стандартна батарея) Б/У</h3>
+                        <p class="card-text"><h3>Apple iPhone 15 Pro 128GB (Black Titanium)</h3>
                         </p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
@@ -51,7 +50,7 @@
                     <div class="card shadow-sm">
                         <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/051006/15-blue-1-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>iPhone 15 256GB (Blue) (Хороший стан, нова батарея) Б/У</h3>
+                            <p class="card-text"><h3>Apple iPhone 15 256GB (Blue)</h3><br>
                             </p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
@@ -65,7 +64,7 @@
                     <div class="card shadow-sm">
                         <img src="https://img.jabko.ua/image/cache/catalog/products/2024/01/111836/SamsungGalaxyS23Green-1%20(1)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Samsung Galaxy S23 8/256GB (S911) (Green) (UA)</h3><br></p>
+                            <p class="card-text"><h3>Samsung Galaxy S23 8/256GB (S911) (Green) (UA)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -78,7 +77,7 @@
                     <div class="card shadow-sm">
                         <img src="https://img.jabko.ua/image/cache/catalog/products/2024/02/051055/SamsungGalaxyS24AmberYellow-14-1397x1397.jpeg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Samsung Galaxy S24 8/128GB (Amber Yellow) (S921) (UA)</h3><br></p>
+                            <p class="card-text"><h3>Samsung Galaxy S24 8/128GB (Amber Yellow) (S921) (UA)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -89,9 +88,9 @@
                 </div>
                 <div class="col">
                     <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2022/04/221151/IMG_9309-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <img src="https://img.jabko.ua/image/cache/catalog/products/2022/04/291049/4O2A0058-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>б/у iPhone 13 Pro Max 256GB (Graphite) (Ідеальний стан, стандартна батарея) Б/У</h3></p>
+                            <p class="card-text"><h3>Apple iPhone 13 128GB (Pink)</h3><br></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -104,7 +103,7 @@
                     <div class="card shadow-sm">
                         <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/271048/12hygtfr-1397x1397.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Google Pixel 8 8/128GB (Obsidian)</h3><br></p>
+                            <p class="card-text"><h3>Google Pixel 8 8/128GB (Obsidian)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -117,7 +116,7 @@
                     <div class="card shadow-sm">
                         <img src="https://img.jabko.ua/image/cache/catalog/products/2022/09/081326/iphone-14-finish-select-202209-6%20(6)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Apple iPhone 14 Plus 256GB (Midnight)</h3><br></p>
+                            <p class="card-text"><h3>Apple iPhone 14 Plus 256GB (Midnight)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -130,7 +129,7 @@
                     <div class="card shadow-sm">
                         <img src="https://img.jabko.ua/image/cache/catalog/products/2024/07/251213/SM-A556BZYCEUC-5.png-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Samsung Galaxy A55 8/128GB (Yellow) (UA)</h3><br></p>
+                            <p class="card-text"><h3>Samsung Galaxy A55 8/128GB (Yellow) (UA)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -141,9 +140,9 @@
                 </div>
                 <div class="col">
                     <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2023/07/041149/deep-purple-2-1397x1397.jpg-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <img src="https://img.jabko.ua/image/cache/catalog/products/2022/09/072331/photo_2022-09-07_23-29-28-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>iPhone 14 Pro 128GB (Deep Purple) (Ідеальний стан, стандартна батарея) Б/У</h3></p>
+                            <p class="card-text"><h3>Apple iPhone 14 Plus 128GB (Purple)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -188,7 +187,7 @@
             <div class="card shadow-sm">
                 <img src="https://img.jabko.ua/image/cache/catalog/products/2023/11/061128/Untitled-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>MacBook Air 15 Retina, Midnight, 256GB, 8 CPU/10 GPU, 8GB RAM with Apple M2 (MQKW3) Б/У</h3></p>
+                    <p class="card-text"><h3>MacBook Air 15 Retina, Midnight, 256GB, 8 CPU/10 GPU, 8GB RAM with Apple M2 (MQKW3)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -227,7 +226,7 @@
             <div class="card shadow-sm">
                 <img src="https://img.jabko.ua/image/cache/catalog/products/2024/06/281700/MacBookPro-13-SpaceGray2022-1-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>MacBook Pro 13, 512GB, Space Gray with Apple M2 (2022) (MNEJ3) Б/У</h3><br></p>
+                    <p class="card-text"><h3>MacBook Pro 13, 512GB, Space Gray with Apple M2 (2022) (MNEJ3)</h3><br></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>

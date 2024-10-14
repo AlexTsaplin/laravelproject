@@ -27,9 +27,9 @@ class MainController extends Controller {
         $reviews = new Contact();
         return view('review', ['reviews' => $reviews->all()]);
     }
-//    public function mobile() {
-//        return view('mobile');
-//    }
+    public function mobile() {
+        return view('mobile');
+    }
 
 
     public function apple() {

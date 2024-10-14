@@ -1,5 +1,4 @@
-
-    <div class="d-flex flex-column flex-shrink-0 p-3 bg-gradient" style="width: 280px;">
+<div class="d-flex flex-column flex-shrink-0 p-3 bg-gradient z-3" style="width: 280px;">
         <a class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
             <p class="width=40 height=32"></p>
             <span class="fs-4" style="color: white">Пристрій:</span>
@@ -28,6 +27,7 @@
         </ul>
         <hr>
     </div>
+
 
 
 
