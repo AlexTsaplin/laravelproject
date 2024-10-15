@@ -11,6 +11,7 @@ Route::get('/categories', [MainController::class,'categories']);
 Route::get('/about', [MainController::class,'about']);
 
 Route::get('/mobile', [MainController::class,'mobile'])->name('product');
+Route::get('/laptop', [MainController::class,'laptop'])->name('product');
 
 Route::get('/review', [MainController::class,'review'])->name('review');
 Route::post('/review/check', [MainController::class,'review_check']);

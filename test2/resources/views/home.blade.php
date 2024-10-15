@@ -3,7 +3,6 @@
 @section('title')Головна сторінка@endsection
 
 @section('main_content')
-
     <div class="h-100 p-5 text-bg-dark rounded-3 jumbotron bg-gradient">
         <h1 class="display-1">SOKOLtm</h1>
         <p><h5>Техніка, яка завжди на крок попереду. Ноутбуки, навушники та смартфони, щоб залишатися на зв'язку, працювати та насолоджуватися кожною миттю.</h5></p>
@@ -19,7 +18,7 @@
             <svg class="bd-placeholder-img rounded-circle" width="50" height="50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect></svg>
             <h2 class="fw-normal">Ноутбуки</h2>
             <p>Ваша потужність у компактному форматі. Оберіть ноутбук, який відповідає вашому стилю життя та завданням – від роботи до розваг.</p>
-            <p><a class="btn btn-secondary" href="/categories">Переглянути »</a></p>
+            <p><a class="btn btn-secondary" href="/laptop">Переглянути »</a></p>
         </div>
         <div class="col-lg-4">
             <svg class="bd-placeholder-img rounded-circle" width="50" height="50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect></svg>

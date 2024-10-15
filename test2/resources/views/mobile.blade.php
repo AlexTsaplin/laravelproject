@@ -66,31 +66,31 @@
                     <div class="filter-title" style="color: white">Діагональ екрану:</div>
                     <ul class="nav nav-pills flex-column mb-auto">
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="screenSize61Checkbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>6.1"</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="screenSize62Checkbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>6.2"</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="screenSize63Checkbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>6.3"</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="screenSize64Checkbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>6.4"</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="screenSize66Checkbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>6.6"</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="screenSize67Checkbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>6.7"</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="screenSize68Checkbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>6.8"</span>
                         </li>
                     </ul>
@@ -98,31 +98,31 @@
                     <div class="filter-title" style="color: white">Колір пристрою:</div>
                     <ul class="nav nav-pills flex-column mb-auto">
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="colorBlackCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>Black</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="colorWhiteCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>White</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="colorBlueCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>Blue</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="colorYellowCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>Yellow</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="colorPinkCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>Pink</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="colorGreenCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>Green</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <input type="checkbox" id="colorGrayCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>Gray</span>
                         </li>
                     </ul>
@@ -221,21 +221,63 @@
                     'https://img.jabko.ua/image/cache/catalog/products/2024/06/241028/iPhone15Blue_1-(1)-1397x1397.jpg.webp'
                 ],
                 link: 'https://jabko.ua/iphone/apple-iphone-15-/apple-iphone-15-256gb--blue-'
+            },
+            {
+                name: 'Apple iPhone 14 Plus 256GB (Midnight)',
+                brand: 'apple',
+                memory: '256GB',
+                ram: '6GB',
+                screenSize: '6.7"',
+                color: 'Black',
+                images: [
+                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/072330/photo_2022-09-07_23-30-04%20(1)-1397x1397.jpg.webp',
+                    'https://img.jabko.ua/image/cache/catalog/products/2024/06/241329/Midnight-1397x1397.jpg.webp',
+                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/081326/iphone-14-finish-select-202209-6%20(6)-1397x1397.jpg.webp'
+                ],
+                link: 'https://jabko.ua/iphone/apple-iphone-14-plus/apple-iphone-14-mini-256gb--midnight-'
+            },
+            {
+                name: 'Apple iPhone 14 Plus 128GB (Purple)',
+                brand: 'apple',
+                memory: '128GB',
+                ram: '6GB',
+                screenSize: '6.7"',
+                color: 'Purple',
+                images: [
+                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/072331/photo_2022-09-07_23-29-28-1397x1397.jpg.webp',
+                    'https://img.jabko.ua/image/cache/catalog/products/2024/06/241329/Purple-1397x1397.jpg.webp',
+                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/081340/iphone-14-finish-select-202209-6-1397x1397.jpg.webp'
+                ],
+                link: 'https://jabko.ua/iphone/apple-iphone-14-plus/apple-iphone-14-mini-128gb--pink-'
+            },
+            {
+                name: 'Samsung Galaxy A55 8/128GB (Yellow) (UA)',
+                brand: 'samsung',
+                memory: '128GB',
+                ram: '8GB',
+                screenSize: '6.6"',
+                color: 'Yellow',
+                images: [
+                    'https://img.jabko.ua/image/cache/catalog/products/2024/07/251212/SM-A556BZYCEUC-1.png-1397x1397.jpg.webp',
+                    'https://img.jabko.ua/image/cache/catalog/products/2024/07/251213/SM-A556BZYCEUC-5.png-1397x1397.jpg.webp',
+                    'https://img.jabko.ua/image/cache/catalog/products/2024/07/251213/SM-A556BZYCEUC-4.png-1397x1397.jpg.webp'
+                ],
+                link: 'https://jabko.ua/gadzheti-i-drugoe/smartfoni/smartfoni-samsung/smartfony-samsung-galaxy-a55/smartfon-samsung-galaxy-a55-8128gb-yellow-ua'
             }
         ];
 
-        function renderProducts() {
+        function renderProducts(filtered = products) {
             const productContainer = document.getElementById('products');
             productContainer.innerHTML = '';
 
-            products.forEach(product => {
+            filtered.forEach(product => {
                 const productDiv = document.createElement('div');
                 productDiv.className = 'col-md-4 product';
-                productDiv.setAttribute('data-brand', product.brand);
-                productDiv.setAttribute('data-memory', product.memory);
-                productDiv.setAttribute('data-ram', product.ram);
-                productDiv.setAttribute('data-screen-size', product.screenSize);
-                productDiv.setAttribute('data-color', product.color);
+                productDiv.dataset.brand = product.brand;
+                productDiv.dataset.memory = product.memory;
+                productDiv.dataset.ram = product.ram;
+                productDiv.dataset.screenSize = product.screenSize;
+                productDiv.dataset.color = product.color;
 
                 let currentIndex = 0;
 
@@ -245,6 +287,7 @@
                 const imgElement = document.createElement('img');
                 imgElement.src = product.images[currentIndex];
                 imgElement.alt = product.name;
+                imgContainer.appendChild(imgElement);
 
                 const dotContainer = document.createElement('div');
                 dotContainer.className = 'dot-container';
@@ -252,46 +295,38 @@
                 product.images.forEach((_, index) => {
                     const dot = document.createElement('span');
                     dot.className = 'dot';
-                    dot.onclick = () => {
-                        currentIndex = index;
-                        updateImage();
-                    };
+                    dot.onclick = () => { currentIndex = index; updateImage(); };
                     dotContainer.appendChild(dot);
                 });
 
-                function updateImage() {
+                const updateImage = () => {
                     imgElement.src = product.images[currentIndex];
-                    const dots = dotContainer.querySelectorAll('.dot');
-                    dots.forEach((dot, index) => {
-                        dot.classList.toggle('active', index === currentIndex);
+                    dotContainer.querySelectorAll('.dot').forEach((dot, idx) => {
+                        dot.classList.toggle('active', idx === currentIndex);
                     });
-                }
-
-                const prevButton = document.createElement('button');
-                prevButton.innerHTML = '&lt;';
-                prevButton.className = 'circle-button';
-                prevButton.onclick = () => {
-                    currentIndex = (currentIndex - 1 + product.images.length) % product.images.length;
-                    updateImage();
                 };
 
-                const nextButton = document.createElement('button');
-                nextButton.innerHTML = '&gt;';
-                nextButton.className = 'circle-button';
-                nextButton.onclick = () => {
-                    currentIndex = (currentIndex + 1) % product.images.length;
-                    updateImage();
+                const createButton = (text, callback) => {
+                    const button = document.createElement('button');
+                    button.innerHTML = text;
+                    button.className = 'circle-button';
+                    button.onclick = callback;
+                    return button;
                 };
-
-                imgContainer.appendChild(imgElement);
 
                 const buttonContainer = document.createElement('div');
                 buttonContainer.className = 'button-container';
-                buttonContainer.appendChild(prevButton);
+                buttonContainer.appendChild(createButton('&lt;', () => {
+                    currentIndex = (currentIndex - 1 + product.images.length) % product.images.length;
+                    updateImage();
+                }));
                 buttonContainer.appendChild(dotContainer);
-                buttonContainer.appendChild(nextButton);
+                buttonContainer.appendChild(createButton('&gt;', () => {
+                    currentIndex = (currentIndex + 1) % product.images.length;
+                    updateImage();
+                }));
 
-                productDiv.innerHTML += `<h5>${product.name}</h5>`;
+                productDiv.innerHTML = `<h5>${product.name}</h5>`;
                 productDiv.prepend(imgContainer);
                 productDiv.appendChild(buttonContainer);
 
@@ -299,131 +334,39 @@
                 detailButton.href = product.link;
                 detailButton.className = 'btn btn-primary product-link';
                 detailButton.innerHTML = 'Детальніше';
-
                 productDiv.appendChild(detailButton);
+
                 productContainer.appendChild(productDiv);
             });
         }
-
-
 
         function filterProducts() {
-            const appleChecked = document.getElementById('appleCheckbox').checked;
-            const googleChecked = document.getElementById('googleCheckbox').checked;
-            const samsungChecked = document.getElementById('samsungCheckbox').checked;
+            const filters = {
+                brand: ['apple', 'google', 'samsung'].filter(b => document.getElementById(`${b}Checkbox`).checked),
+                memory: ['128GB', '256GB', '512GB', '1TB'].filter(m => document.getElementById(`memory${m}Checkbox`).checked),
+                ram: ['6GB', '8GB', '12GB', '16GB'].filter(r => document.getElementById(`ram${r}Checkbox`).checked),
+                screenSize: ['6.1"', '6.2"', '6.3"', '6.4"', '6.6"', '6.7"', '6.8"'].filter(s => document.getElementById(`screenSize${s.replace('.', '').replace('"', '')}Checkbox`).checked),
+                color: ['black', 'white', 'blue', 'yellow', 'pink', 'green', 'gray'].filter(c => document.getElementById(`color${c.charAt(0).toUpperCase() + c.slice(1)}Checkbox`).checked)
+            };
 
-            const memory128GBChecked = document.getElementById('memory128GBCheckbox').checked;
-            const memory256GBChecked = document.getElementById('memory256GBCheckbox').checked;
-            const memory512GBChecked = document.getElementById('memory512GBCheckbox').checked;
-            const memory1TBChecked = document.getElementById('memory1TBCheckbox').checked;
+            const matchesFilter = (product, filterKey) =>
+                !filters[filterKey].length || filters[filterKey].includes(product[filterKey].toLowerCase());
 
-            const ram6GBChecked = document.getElementById('ram6GBCheckbox').checked;
-            const ram8GBChecked = document.getElementById('ram8GBCheckbox').checked;
-            const ram12GBChecked = document.getElementById('ram12GBCheckbox').checked;
-            const ram16GBChecked = document.getElementById('ram16GBCheckbox').checked;
+            const filteredProducts = products.filter(product =>
+                matchesFilter(product, 'brand') &&
+                (filters.memory.length === 0 || filters.memory.includes(product.memory)) &&
+                (filters.ram.length === 0 || filters.ram.includes(product.ram)) &&
+                matchesFilter(product, 'screenSize') &&
+                matchesFilter(product, 'color')
+            );
 
-            const filteredProducts = products.filter(product => {
-                if (appleChecked && product.brand === 'apple') return true;
-                if (googleChecked && product.brand === 'google') return true;
-                if (samsungChecked && product.brand === 'samsung') return true;
-
-                if (memory128GBChecked && product.memory === '128GB') return true;
-                if (memory256GBChecked && product.memory === '256GB') return true;
-                if (memory512GBChecked && product.memory === '512GB') return true;
-                if (memory1TBChecked && product.memory === '1TB') return true;
-
-                if (ram6GBChecked && product.ram === '6GB') return true;
-                if (ram8GBChecked && product.ram === '8GB') return true;
-                if (ram12GBChecked && product.ram === '12GB') return true;
-                if (ram16GBChecked && product.ram === '16TB') return true;
-
-                return !appleChecked && !googleChecked && !samsungChecked && !memory128GBChecked && !memory256GBChecked && !memory512GBChecked && !memory1TBChecked && !ram6GBChecked && !ram8GBChecked && !ram12GBChecked && !ram16GBChecked;
-
-
-            });
-
-            renderFilteredProducts(filteredProducts);
-        }
-
-        function renderFilteredProducts(filteredProducts) {
-            const productContainer = document.getElementById('products');
-            productContainer.innerHTML = ''; // Очистить контейнер
-
-            filteredProducts.forEach(product => {
-                const productDiv = document.createElement('div');
-                productDiv.className = 'col-md-4 product';
-                productDiv.setAttribute('data-brand', product.brand);
-
-                let currentIndex = 0;
-
-                const imgContainer = document.createElement('div');
-                imgContainer.className = 'img-container';
-
-                const imgElement = document.createElement('img');
-                imgElement.src = product.images[currentIndex];
-                imgElement.alt = product.name;
-
-                const dotContainer = document.createElement('div');
-                dotContainer.className = 'dot-container';
-
-                product.images.forEach((_, index) => {
-                    const dot = document.createElement('span');
-                    dot.className = 'dot';
-                    dot.onclick = () => {
-                        currentIndex = index;
-                        updateImage();
-                    };
-                    dotContainer.appendChild(dot);
-                });
-
-                function updateImage() {
-                    imgElement.src = product.images[currentIndex];
-                    const dots = dotContainer.querySelectorAll('.dot');
-                    dots.forEach((dot, index) => {
-                        dot.classList.toggle('active', index === currentIndex);
-                    });
-                }
-
-                const prevButton = document.createElement('button');
-                prevButton.innerHTML = '&lt;';
-                prevButton.className = 'circle-button';
-                prevButton.onclick = () => {
-                    currentIndex = (currentIndex - 1 + product.images.length) % product.images.length;
-                    updateImage();
-                };
-
-                const nextButton = document.createElement('button');
-                nextButton.innerHTML = '&gt;';
-                nextButton.className = 'circle-button';
-                nextButton.onclick = () => {
-                    currentIndex = (currentIndex + 1) % product.images.length;
-                    updateImage();
-                };
-
-                imgContainer.appendChild(imgElement);
-
-                const buttonContainer = document.createElement('div');
-                buttonContainer.className = 'button-container';
-                buttonContainer.appendChild(prevButton);
-                buttonContainer.appendChild(dotContainer);
-                buttonContainer.appendChild(nextButton);
-
-                productDiv.innerHTML += `<h5>${product.name}</h5>`;
-                productDiv.prepend(imgContainer);
-                productDiv.appendChild(buttonContainer);
-
-                const detailButton = document.createElement('a');
-                detailButton.href = product.link;
-                detailButton.className = 'btn btn-primary product-link';
-                detailButton.innerHTML = 'Детальніше';
-
-                productDiv.appendChild(detailButton);
-                productContainer.appendChild(productDiv);
-            });
+            renderProducts(filteredProducts);
         }
 
         // Вызовите функцию рендеринга при загрузке страницы
         renderProducts();
+
+
     </script>
 
 

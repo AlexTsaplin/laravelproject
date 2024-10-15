@@ -30,6 +30,9 @@ class MainController extends Controller {
     public function mobile() {
         return view('mobile');
     }
+    public function laptop() {
+        return view('laptop');
+    }
 
 
     public function apple() {
