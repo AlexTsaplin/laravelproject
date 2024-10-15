@@ -254,10 +254,10 @@
                 hz: '240Hz',
                 videomemory: 'video16',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/271003/45vds-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/271003/65fgnnfg-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/271003/54nggf-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/271023/567nfggnf-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/f0/55/16-asus-rog-strix-scar-16-g634jyr-ra041x-intel-i9-14900hx-32gb-1tbssd-nvd4090-16-win11-black-bag-mouse_6c2168e2-80e6-4b71-bed1-8c14a217fa1e-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/47/67/16-asus-rog-strix-scar-16-g634jyr-ra041x-intel-i9-14900hx-32gb-1tbssd-nvd4090-16-win11-black-bag-mouse_6c2168e2-80e6-4b71-bed1-8c14a217fa1e-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/d1/54/16-asus-rog-strix-scar-16-g634jyr-ra041x-intel-i9-14900hx-32gb-1tbssd-nvd4090-16-win11-black-bag-mouse_6c2168e2-80e6-4b71-bed1-8c14a217fa1e-3.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/e0/8c/16-asus-rog-strix-scar-16-g634jyr-ra041x-intel-i9-14900hx-32gb-1tbssd-nvd4090-16-win11-black-bag-mouse_6c2168e2-80e6-4b71-bed1-8c14a217fa1e-4.png.webp'
                 ],
                 link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-asus/noutbuk-asus-rog-strix-scar-16-2024-core-i932gb-ram1tbrtx-4090'
             },
@@ -305,10 +305,10 @@
                 hz: '165Hz',
                 videomemory: 'video8',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/161456/12thtrfd.png-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/161456/12tgtrfd.png-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/161453/12grfed.png-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/161456/12tgrfed.png-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/66/16/noutbuk-16-lenovo-legion-pro-5-16irx9-intel-i9-14900hx-32gb-1tb-ssd-1tb-ssd-rtx4070-8gb-dos-grey_dc04d71e-7c05-40fc-b798-535ce56b5afb-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/b0/2a/noutbuk-16-lenovo-legion-pro-5-16irx9-intel-i9-14900hx-32gb-1tb-ssd-1tb-ssd-rtx4070-8gb-dos-grey_dc04d71e-7c05-40fc-b798-535ce56b5afb-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/21/94/noutbuk-16-lenovo-legion-pro-5-16irx9-intel-i9-14900hx-32gb-1tb-ssd-1tb-ssd-rtx4070-8gb-dos-grey_dc04d71e-7c05-40fc-b798-535ce56b5afb-3.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/b4/3a/noutbuk-16-lenovo-legion-pro-5-16irx9-intel-i9-14900hx-32gb-1tb-ssd-1tb-ssd-rtx4070-8gb-dos-grey_dc04d71e-7c05-40fc-b798-535ce56b5afb-5.png.webp'
                 ],
                 link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-lenovo/noutbuk-lenovo-legion-5-pro-16irx9-intel-core-i9-96gb-4tb-rtx-4070-83df007mrm-global'
             },
@@ -322,10 +322,9 @@
                 gpu: 'gpuapple3pro',
                 hz: '120Hz',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/10/310833/mbp14-m3-max-pro-spaceblack-2-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/10/310833/mbp14-m3-max-pro-spaceblack-1-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/10/311518/spaceblack-3-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/10/311431/spaceblack-1-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/e5/58/noutbuk-macbook-pro-14-apple-m3-pro-18gb-11cpu-14gpu-512gb-ssd-space-black-2023_275bb564-5f51-4609-a3ba-df228d6f4b4f-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/79/9c/noutbuk-macbook-pro-14-apple-m3-pro-18gb-11cpu-14gpu-512gb-ssd-space-black-2023_275bb564-5f51-4609-a3ba-df228d6f4b4f-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/c8/b2/noutbuk-macbook-pro-14-apple-m3-pro-18gb-11cpu-14gpu-512gb-ssd-space-black-2023_275bb564-5f51-4609-a3ba-df228d6f4b4f-3.png.webp',
                 ],
                 link: 'https://jabko.ua/mac/macbook-pro/macbook-pro-14-apple-m3/apple-macbook-pro-14-apple-m3-pro-512gb-11-cpu-14-gpu-18gb-ram-space-black-2023-mrx33'
             },
@@ -339,27 +338,27 @@
                 gpu: 'gpuapple2',
                 hz: '60Hz',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/06/281700/MacBookPro-13-SpaceGray2022-1-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2020/11/121140/1-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/06/241532/spacegray-(1)-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/b2/39/macbook-pro-13-apple-m2-256gb-space-gray-2022-mneh3-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/6c/80/macbook-pro-13-apple-m2-256gb-space-gray-2022-mneh3-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/b9/85/macbook-pro-13-apple-m2-256gb-space-gray-2022-mneh3-4.png.webp'
                 ],
                 link: 'https://jabko.ua/mac/b-u-macbook/bu-apple-macbook-pro-13-512gb-space-gray-with-apple-m2-2022-mnej3'
             },
             {
                 name: 'Acer Nitro 17 AN17-41 (2023)',
                 brand: 'acer',
-                memory: '4TB',
+                memory: '1TB',
                 ram: '64GB',
                 series: 'nitro',
-                processor: 'ryzen5',
-                gpu: 'radeon',
+                processor: 'ryzen9',
+                gpu: 'nvidia',
                 hz: '144Hz',
                 videomemory: 'video6',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/241322/65fgn-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/241322/5bdfdb-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/241322/54fgnfgn-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/04/241322/54vdsvs-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/a4/80/noutbuk-17-3-acer-nitro-17-an17-42-nh-qsceu-001-amd-r9-8945hs-32gb-1tb-ssd-nvd4070-8-linux-black_b0484211-faa3-4d75-99d2-fdef859950c9-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/37/fd/noutbuk-17-3-acer-nitro-17-an17-42-nh-qsceu-001-amd-r9-8945hs-32gb-1tb-ssd-nvd4070-8-linux-black_b0484211-faa3-4d75-99d2-fdef859950c9-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/2b/38/noutbuk-17-3-acer-nitro-17-an17-42-nh-qsceu-001-amd-r9-8945hs-32gb-1tb-ssd-nvd4070-8-linux-black_b0484211-faa3-4d75-99d2-fdef859950c9-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/bb/76/noutbuk-17-3-acer-nitro-17-an17-42-nh-qsceu-001-amd-r9-8945hs-32gb-1tb-ssd-nvd4070-8-linux-black_b0484211-faa3-4d75-99d2-fdef859950c9-4.png.webp'
                 ],
                 link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-acer/noutbuk-acer-nitro-17-an17-41-amd-ryzen-5-64gb-4tb-rtx-4050-nhql1ex057-global'
             },
@@ -372,10 +371,10 @@
                 processor: 'intel7',
                 hz: '60Hz',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/211207/65vvd-(1)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/211207/43sdsds-(1)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/211207/76hghg-(1)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/211207/87hdsds-(1)-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/17/b7/noutbuk-15-6-asus-vivobook-15-oled-x1505za-l1371-intel-i7-12700h-16gb-512-ssd-inteluhd-dos-black_2f9a2eff-c64a-44e0-98cb-3975bb2b53ed-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/fc/45/noutbuk-15-6-asus-vivobook-15-oled-x1505za-l1371-intel-i7-12700h-16gb-512-ssd-inteluhd-dos-black_2f9a2eff-c64a-44e0-98cb-3975bb2b53ed-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/3f/c6/noutbuk-15-6-asus-vivobook-15-oled-x1505za-l1371-intel-i7-12700h-16gb-512-ssd-inteluhd-dos-black_2f9a2eff-c64a-44e0-98cb-3975bb2b53ed-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/6e/93/noutbuk-15-6-asus-vivobook-15-oled-x1505za-l1371-intel-i7-12700h-16gb-512-ssd-inteluhd-dos-black_2f9a2eff-c64a-44e0-98cb-3975bb2b53ed-4.png.webp'
                 ],
                 link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-asus/noutbuk-asus-vivobook-15-oled-r1505za-intel-core-i7-24gb-2tb-iris-xe-r1505za-l1185-global'
             },

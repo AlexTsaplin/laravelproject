@@ -24,7 +24,7 @@
             <svg class="bd-placeholder-img rounded-circle" width="50" height="50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect></svg>
             <h2 class="fw-normal">Навушники</h2>
             <p>Пориньте у світ чистого звуку з нашими навушниками. Вибирайте комфорт, стиль та якість, щоб насолоджуватися кожною нотою.</p>
-            <p><a class="btn btn-secondary" href="/categories">Переглянути »</a></p>
+            <p><a class="btn btn-secondary" href="/headphone">Переглянути »</a></p>
         </div>
     </div><br>
 
@@ -32,8 +32,8 @@
         <!-- Перша 9-ка -->
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
             <div class="col">
-                <div class="card shadow-sm">
-                    <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/051004/15-black-1-(1)-(1)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                <div class="card shadow-sm bg-dark-subtle">
+                    <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/94/3c/iphone-15-pro-128gb-black-titanium-e-sim_59abbd6d-c477-4b8f-a270-1dbade20f1a0-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                     <div class="card-body">
                         <p class="card-text"><h3>Apple iPhone 15 Pro 128GB (Black Titanium)</h3>
                         </p>
@@ -46,8 +46,8 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/051006/15-blue-1-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-sm bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/12/5b/iphone-15-blue-128-mb-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
                             <p class="card-text"><h3>Apple iPhone 15 256GB (Blue)</h3><br>
                             </p>
@@ -60,10 +60,10 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2024/01/111836/SamsungGalaxyS23Green-1%20(1)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-sm bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/79/08/smartfon-galaxy-s23-fe-5g-256gb-mint-sm-s711blggsek_e10ec90b-7d94-4d3a-b7c4-88aa9b63a424-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Samsung Galaxy S23 8/256GB (S911) (Green) (UA)</h3></p>
+                            <p class="card-text"><h3>Samsung Galaxy S23 FE 5G 256GB (Green)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -73,10 +73,10 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2024/02/051055/SamsungGalaxyS24AmberYellow-14-1397x1397.jpeg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-sm bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/cf/98/smartfon-samsung-galaxy-s24-fe-5g-128gb-yellow-sm-s721bzydeuc_25504c25-3b4d-42a0-bb2a-173f66780b0d-5.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Samsung Galaxy S24 8/128GB (Amber Yellow) (S921) (UA)</h3></p>
+                            <p class="card-text"><h3>Samsung Galaxy S24 FE 5G 128GB (Yellow)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -86,8 +86,8 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2022/04/291049/4O2A0058-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-sm bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/f0/7a/iphone-13-pink-128gb-3.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
                             <p class="card-text"><h3>Apple iPhone 13 128GB (Pink)</h3><br></p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -99,8 +99,8 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/271048/12hygtfr-1397x1397.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-sm bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/61/4e/smartfon-google-pixel-8-8-128gb-obsidian_b2bceb90-cc99-45ce-9406-901a8e8b4207-2.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
                             <p class="card-text"><h3>Google Pixel 8 8/128GB (Obsidian)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
@@ -112,10 +112,10 @@
                     </div>
                 </div><br>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2022/09/081326/iphone-14-finish-select-202209-6%20(6)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-sm bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/ae/d0/iphone-14-plus-midnight-128gb-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Apple iPhone 14 Plus 256GB (Midnight)</h3></p>
+                            <p class="card-text"><h3><br>Apple iPhone 14 Plus 256GB (Midnight)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -125,10 +125,10 @@
                     </div>
                 </div><br>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2024/07/251213/SM-A556BZYCEUC-5.png-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-smb bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/fd/7e/smartfon-galaxy-a55-5g-256gb-light-blue-sm-a556blbceuc_54b8c60d-1f9b-445d-9684-1583cf998444-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Samsung Galaxy A55 8/128GB (Yellow) (UA)</h3></p>
+                            <p class="card-text"><h3>Samsung Galaxy-A55 5G 256GB (Blue)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -138,10 +138,10 @@
                     </div>
                 </div>
                 <div class="col">
-                    <div class="card shadow-sm">
-                        <img src="https://img.jabko.ua/image/cache/catalog/products/2022/09/072331/photo_2022-09-07_23-29-28-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+                    <div class="card shadow-sm bg-dark-subtle">
+                        <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/d4/2d/iphone-14-plus-purple-128gb-2.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                         <div class="card-body">
-                            <p class="card-text"><h3>Apple iPhone 14 Plus 128GB (Purple)</h3></p>
+                            <p class="card-text"><h3><br>Apple iPhone 14 Plus 128GB (Purple)</h3></p>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -281,10 +281,10 @@
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/06/201658/45fdfd-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sms bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/e9/c1/navushniki-tws-sony-wf-c500-white-wfc500w-ce7_c6a7af38-e390-4aaa-bac8-980f79afb3e1-5.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Навушники Sony WF-1000XM4S (Silver)</h3><br></p>
+                    <p class="card-text"><h3>Наушники TWS Sony WF-C500 (White)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -294,10 +294,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2023/08/071011/Fon%201-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/40/da/navushniki-jbl-tune-flex-blue-jbltflexblu_f0cdbe9a-3083-4589-acca-ee1986d31744-8.png.webp">
                 <div class="card-body">
-                    <p class="card-text"><h3>Навушники JBL Tune Beam (Blue)</h3><br></p>
+                    <p class="card-text"><h3>Наушники JBL Tune Flex (Blue)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -307,10 +307,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/10/071552/5-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/f5/38/navushniki-samsung-galaxy-buds3-silver-sm-r530nzaasek_8bdee398-a376-4893-8f78-121778f30d69-5.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Навушники Samsung Galaxy Buds FE SM-R400 (Graphite) (SM-R400NZAASEK)</h3></p>
+                    <p class="card-text"><h3>Навушники Samsung Galaxy Buds FE SM-R400 (Silver)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -320,10 +320,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2022/09/072342/MQD83%20(1)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/01/d8/air-pods-pro-2-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Apple AirPods Pro 2 with MagSafe Charging Case (USB‑C) (MTJV3)</h3></p>
+                    <p class="card-text"><h3>Apple AirPods Pro 2 with MagSafe Charging Case</h3><br></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -333,10 +333,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2021/10/182240/MME73-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/b6/8c/airpods-3-mme73-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Apple AirPods 3 with Lightning Charging Case (MPNY3)</h3></p>
+                    <p class="card-text"><h3>Apple AirPods 3 with Lightning Charging Case</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -346,10 +346,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2023/11/031215/3-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/a8/0b/navushniki-google-pixel-buds-pro-charcoal-ga03201_0c6f87c7-2f6d-4140-8963-ac88a1e11829-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Навушники Google Pixel Buds Pro (Charcoal)</h3><br></p>
+                    <p class="card-text"><h3>Навушники Google Pixel Buds Pro (Charcoal)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -359,10 +359,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/05/101529/12yhgtfd.png-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/5d/43/navushniki-marshall-minor-iv-black-1006653_0be64394-0180-48ba-b41a-4d0c7bb5c0de-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Навушники Marshall Headphones Minor IV (Black)</h3><br></p>
+                    <p class="card-text"><h3>Навушники Marshall Headphones Minor IV (Black)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -372,10 +372,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/07/091729/sm-r530_004_case%20front_white_240503-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/91/15/bezdrotovi-navushniki-proove-orion-tws-white_828df0ad-bf6a-410a-9655-c4e369caabe4-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Навушники Samsung Galaxy Buds 3 (White)</h3><br></p>
+                    <p class="card-text"><h3>Навушники Proove Orion TWS (White)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -385,10 +385,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2023/07/061104/135821768_AUC005_Wht_Belkin_SOUN-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/44/99/navushniki-jbl-tune-230-nc-tws-sand-jblt230nctwssan_d5b8adc2-06c1-4267-8872-c9d3d5f5a3a6-4.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Навушники Belkin Soundform Play True Wireless (White)</h3></p>
+                    <p class="card-text"><h3>Наушники JBL Tune 230 NC TWS (Orange-Sand)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>

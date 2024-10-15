@@ -33,6 +33,9 @@ class MainController extends Controller {
     public function laptop() {
         return view('laptop');
     }
+    public function headphone() {
+        return view('headphone');
+    }
 
 
     public function apple() {

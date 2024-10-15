@@ -147,9 +147,9 @@
                 screenSize: '6.1"',
                 color: 'Black',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/09/122237/1-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/09/122238/2-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/09/122238/4-1397x1397.jpg.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/94/3c/iphone-15-pro-128gb-black-titanium-e-sim_59abbd6d-c477-4b8f-a270-1dbade20f1a0-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/cd/d4/iphone-15-pro-128gb-black-titanium-e-sim_59abbd6d-c477-4b8f-a270-1dbade20f1a0-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/f8/65/iphone-15-pro-128gb-black-titanium-e-sim_59abbd6d-c477-4b8f-a270-1dbade20f1a0-3.png.webp',
                 ],
                 link: 'https://jabko.ua/iphone/apple-iphone-15-pro/apple-iphone-15-pro-128gb-black-titanium'
             },
@@ -160,9 +160,8 @@
                 screenSize: '6.1"',
                 color: 'Pink',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2021/09/142354/2021-09-14%2021.47.43-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2021/09/171252/5-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2021/09/171252/16-1397x1397.jpg.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/f0/7a/iphone-13-pink-128gb-3.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/0b/13/iphone-13-pink-128gb-1.png.webp'
                 ],
                 link: 'https://jabko.ua/iphone/apple-iphone-13/apple-iphone-13-128gb--pink-'
             },
@@ -174,39 +173,39 @@
                 screenSize: '6.2"',
                 color: 'Black',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/10/061529/Pixel8Obsidian-3-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/10/061528/Pixel8Obsidian-2-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/271048/12hygtfr-1397x1397.png.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/61/4e/smartfon-google-pixel-8-8-128gb-obsidian_b2bceb90-cc99-45ce-9406-901a8e8b4207-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/ae/2a/smartfon-google-pixel-8-8-128gb-obsidian_b2bceb90-cc99-45ce-9406-901a8e8b4207-3.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/29/96/smartfon-google-pixel-8-8-128gb-obsidian_b2bceb90-cc99-45ce-9406-901a8e8b4207-1.png.webp'
                 ],
                 link: 'https://jabko.ua/gadzheti-i-drugoe/smartfoni/smartfoni-google-pixel/google-pixel-8/smartfon-google-pixel-8-8-128--jade-'
             },
             {
-                name: 'Samsung Galaxy S23 8/256GB (S911) (Green) (UA)',
+                name: 'Samsung Galaxy S23 FE 5G 256GB (Green)',
                 brand: 'samsung',
                 memory: '256GB',
                 ram: '8GB',
                 screenSize: '6.1"',
                 color: 'Green',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/08/221455/1-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/08/221455/2-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/01/111836/SamsungGalaxyS23Green-2%20(1)-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/79/08/smartfon-galaxy-s23-fe-5g-256gb-mint-sm-s711blggsek_e10ec90b-7d94-4d3a-b7c4-88aa9b63a424-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/70/71/smartfon-galaxy-s23-fe-5g-256gb-mint-sm-s711blggsek_e10ec90b-7d94-4d3a-b7c4-88aa9b63a424-9.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/e6/c8/smartfon-galaxy-s23-fe-5g-256gb-mint-sm-s711blggsek_e10ec90b-7d94-4d3a-b7c4-88aa9b63a424-5.png.webp'
                 ],
-                link: 'https://jabko.ua/gadzheti-i-drugoe/smartfoni/smartfoni-samsung/samsung-galaxy-s23/smartfon-samsung-galaxy-s23-s911-61-8256gb-2sim-3900mah-green'
+                link: 'https://yabloki.ua/smartfon-galaxy-s23-fe-5g-256gb-mint-sm-s711blggsek-54994.html'
             },
             {
-                name: 'Samsung Galaxy S24 8/128GB (Amber Yellow) (S921) (UA)',
+                name: 'Samsung Galaxy S24 FE 5G 128GB (Yellow)',
                 brand: 'samsung',
                 memory: '128GB',
                 ram: '8GB',
                 screenSize: '6.2"',
                 color: 'Yellow',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/01/190936/43fdfdd-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/02/051055/SamsungGalaxyS24AmberYellow-13-1397x1397.jpeg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/02/051055/SamsungGalaxyS24AmberYellow-12-1397x1397.jpeg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/cf/98/smartfon-samsung-galaxy-s24-fe-5g-128gb-yellow-sm-s721bzydeuc_25504c25-3b4d-42a0-bb2a-173f66780b0d-5.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/cd/0f/smartfon-samsung-galaxy-s24-fe-5g-128gb-yellow-sm-s721bzydeuc_25504c25-3b4d-42a0-bb2a-173f66780b0d-5.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/24/26/smartfon-samsung-galaxy-s24-fe-5g-128gb-yellow-sm-s721bzydeuc_25504c25-3b4d-42a0-bb2a-173f66780b0d-9.png.webp'
                 ],
-                link: 'https://jabko.ua/gadzheti-i-drugoe/smartfoni/smartfoni-samsung/samsung-galaxy-s24/smartfon-samsung-galaxy-s24-8128gb-amber-yellow-s921-ua'
+                link: 'https://yabloki.ua/smartfon-samsung-galaxy-s24-fe-5g-128gb-yellow-sm-s721bzydeuc-58244.html'
             },
             {
                 name: 'Apple iPhone 15 256GB (Blue)',
@@ -216,9 +215,8 @@
                 screenSize: '6.1"',
                 color: 'Blue',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/01/221756/ablue-1397x1397.jpeg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/09/122253/iphone-15-finish-select-202309-6%20(4)%20(1)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/06/241028/iPhone15Blue_1-(1)-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/12/5b/iphone-15-blue-128-mb-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/04/3e/iphone-15-blue-128-mb-4.png.webp',
                 ],
                 link: 'https://jabko.ua/iphone/apple-iphone-15-/apple-iphone-15-256gb--blue-'
             },
@@ -230,9 +228,8 @@
                 screenSize: '6.7"',
                 color: 'Black',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/072330/photo_2022-09-07_23-30-04%20(1)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/06/241329/Midnight-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/081326/iphone-14-finish-select-202209-6%20(6)-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/ae/d0/iphone-14-plus-midnight-128gb-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/0c/00/iphone-14-plus-midnight-128gb-2.png.webp',
                 ],
                 link: 'https://jabko.ua/iphone/apple-iphone-14-plus/apple-iphone-14-mini-256gb--midnight-'
             },
@@ -244,25 +241,24 @@
                 screenSize: '6.7"',
                 color: 'Purple',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/072331/photo_2022-09-07_23-29-28-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/06/241329/Purple-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2022/09/081340/iphone-14-finish-select-202209-6-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/d4/2d/iphone-14-plus-purple-128gb-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/d4/01/iphone-14-plus-purple-128gb-1.png.webp',
                 ],
                 link: 'https://jabko.ua/iphone/apple-iphone-14-plus/apple-iphone-14-mini-128gb--pink-'
             },
             {
-                name: 'Samsung Galaxy A55 8/128GB (Yellow) (UA)',
+                name: 'Samsung Galaxy-A55 5G 256GB (Blue)',
                 brand: 'samsung',
                 memory: '128GB',
                 ram: '8GB',
                 screenSize: '6.6"',
-                color: 'Yellow',
+                color: 'Blue',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/07/251212/SM-A556BZYCEUC-1.png-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/07/251213/SM-A556BZYCEUC-5.png-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/07/251213/SM-A556BZYCEUC-4.png-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/fd/7e/smartfon-galaxy-a55-5g-256gb-light-blue-sm-a556blbceuc_54b8c60d-1f9b-445d-9684-1583cf998444-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/85/fa/smartfon-galaxy-a55-5g-256gb-light-blue-sm-a556blbceuc_54b8c60d-1f9b-445d-9684-1583cf998444-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/00/43/smartfon-galaxy-a55-5g-256gb-light-blue-sm-a556blbceuc_54b8c60d-1f9b-445d-9684-1583cf998444-4.png.webp'
                 ],
-                link: 'https://jabko.ua/gadzheti-i-drugoe/smartfoni/smartfoni-samsung/smartfony-samsung-galaxy-a55/smartfon-samsung-galaxy-a55-8128gb-yellow-ua'
+                link: 'https://yabloki.ua/smartfon-galaxy-a55-5g-256gb-light-blue-sm-a556blbceuc-55000.html'
             }
         ];
 
