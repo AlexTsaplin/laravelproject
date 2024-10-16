@@ -157,10 +157,10 @@
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/04/271003/65fgnnfg-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/f0/55/16-asus-rog-strix-scar-16-g634jyr-ra041x-intel-i9-14900hx-32gb-1tbssd-nvd4090-16-win11-black-bag-mouse_6c2168e2-80e6-4b71-bed1-8c14a217fa1e-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>ASUS ROG Strix SCAR 16 (2024) (Core i9/32GB RAM/1TB/RTX 4090)</h3><br></p>
+                    <p class="card-text"><h3>ASUS ROG Strix SCAR 16 (2024) (Core i9/32GB RAM/1TB/RTX 4090)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -170,10 +170,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/141656/3205742-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/d9/e7/macbook-air-13-m2-2022-8gb-512gb-z160000gh_8f73c0ca-d94e-44db-aca5-61d45bbe0bfc-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Dell XPS 17 9730 (Intel Core i7/16GB/1TB/RTX 4050) (J4TPX) (Global)</h3><br></p>
+                    <p class="card-text"><h3>MacBook Air 13, Midnight (2022)</h3><br></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -183,10 +183,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2023/11/061128/Untitled-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/6b/b3/noutbuk-15-6-hp-victus-15-fa0023ua-ag-a0nv6ea-intel-i5-12450h-16gb-512gb-ssd-nvd3050-4-dos-black_43da69df-df7f-43c2-97ff-deaea274d06c-4.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>MacBook Air 15 Retina, Midnight, 256GB, 8 CPU/10 GPU, 8GB RAM with Apple M2 (MQKW3)</h3></p>
+                    <p class="card-text"><h3>HP Victus 15-fa0023ua AG (2023)</h3><br></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -196,8 +196,8 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/161454/12gtrfds.png-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/66/16/noutbuk-16-lenovo-legion-pro-5-16irx9-intel-i9-14900hx-32gb-1tb-ssd-1tb-ssd-rtx4070-8gb-dos-grey_dc04d71e-7c05-40fc-b798-535ce56b5afb-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
                     <p class="card-text"><h3>Lenovo Legion 5 Pro 16IRX9 (Intel Core i9/96GB/4TB/RTX 4070) (83DF007MRM) (Global)</h3><br></p>
                     <div class="d-flex justify-content-between align-items-center">
@@ -209,8 +209,8 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2023/10/311431/spaceblack-1-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/e5/58/noutbuk-macbook-pro-14-apple-m3-pro-18gb-11cpu-14gpu-512gb-ssd-space-black-2023_275bb564-5f51-4609-a3ba-df228d6f4b4f-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
                     <p class="card-text"><h3>MacBook Pro 14 with Apple M3 Pro, 512GB, 11 CPU/14 GPU, 18GB RAM, Space Black 2023 (MRX33)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
@@ -222,10 +222,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/06/281700/MacBookPro-13-SpaceGray2022-1-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/b2/39/macbook-pro-13-apple-m2-256gb-space-gray-2022-mneh3-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>MacBook Pro 13, 512GB, Space Gray with Apple M2 (2022) (MNEJ3)</h3><br></p>
+                    <p class="card-text"><h3>Apple MacBook Pro 13, (Space Gray) (2022))</h3><br><br></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
@@ -235,8 +235,8 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/04/241322/5bdfdb-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/a4/80/noutbuk-17-3-acer-nitro-17-an17-42-nh-qsceu-001-amd-r9-8945hs-32gb-1tb-ssd-nvd4070-8-linux-black_b0484211-faa3-4d75-99d2-fdef859950c9-4.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
                     <p class="card-text"><h3>Acer Nitro 17 AN17-41 (AMD Ryzen 5/64GB/4TB/RTX 4050) (NH.QL1EX.057) (Global)</h3><br></p>
                     <div class="d-flex justify-content-between align-items-center">
@@ -248,8 +248,8 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/211207/54fd-(1)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/17/b7/noutbuk-15-6-asus-vivobook-15-oled-x1505za-l1371-intel-i7-12700h-16gb-512-ssd-inteluhd-dos-black_2f9a2eff-c64a-44e0-98cb-3975bb2b53ed-4.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
                     <p class="card-text"><h3>ASUS Vivobook 15 OLED R1505ZA (Intel Core i7/24GB/2TB/Iris Xe) (R1505ZA-L1185) (Global)</h3></p>
                     <div class="d-flex justify-content-between align-items-center">
@@ -261,10 +261,10 @@
             </div>
         </div>
         <div class="col">
-            <div class="card shadow-sm">
-                <img src="https://img.jabko.ua/image/cache/catalog/products/2024/08/131605/ThinkPad1.jpg-(1)-(1)-1397x1397.jpg.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <div class="card shadow-sm bg-dark-subtle">
+                <img src="https://yabloki.ua/media/cache/sylius_shop_product_original/fb/ea/noutbuk-15-6-lenovo-ideapad-gaming-3-15ach6-82k20273ra-amd-r5-5500h-16gb-512-ssd-rtx2050-4gb-dos-black_aeef22ed-29ba-49e7-9dfe-52739b9f3de4-1.png.webp" class="" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
                 <div class="card-body">
-                    <p class="card-text"><h3>Lenovo ThinkPad T14 Gen 4 (Intel Core i5/ 32GB/ 2TB/ Iris Xe) (21HD00055RM) (Global)</h3><br></p>
+                    <p class="card-text"><h3>Ноутбук 15.6" LENOVO IdeaPad Gaming 3 15ACH6 (82K20273RA)</h3><br></p>
                     <div class="d-flex justify-content-between align-items-center">
                         <div class="btn-group">
                             <button type="button" class="btn btn-sm btn-outline-secondary">View</button>

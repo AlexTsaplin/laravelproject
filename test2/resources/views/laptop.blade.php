@@ -18,8 +18,8 @@
                             <span>Acer</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" id="dellCheckbox" class="form-check-input me-2" onclick="filterProducts();">
-                            <span>Dell</span>
+                            <input type="checkbox" id="hpCheckbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <span>HP</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
                             <input type="checkbox" id="lenovoCheckbox" class="form-check-input me-2" onclick="filterProducts();">
@@ -42,8 +42,8 @@
                             <span>Nitro</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
-                            <input type="checkbox" id="thinkpadCheckbox" class="form-check-input me-2" onclick="filterProducts();">
-                            <span>ThinkPad</span>
+                            <input type="checkbox" id="victusCheckbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <span>Victus</span>
                         </li>
                         <li class="nav-item d-flex align-items-center mb-2">
                             <input type="checkbox" id="rogstrixCheckbox" class="form-check-input me-2" onclick="filterProducts();">
@@ -56,6 +56,10 @@
                         <li class="nav-item d-flex align-items-center mb-2">
                             <input type="checkbox" id="macbookCheckbox" class="form-check-input me-2" onclick="filterProducts();">
                             <span>MacBook</span>
+                        </li>
+                        <li class="nav-item d-flex align-items-center mb-2">
+                            <input type="checkbox" id="ideapadCheckbox" class="form-check-input me-2" onclick="filterProducts();">
+                            <span>IdeaPad</span>
                         </li>
                     </ul>
                     <hr>
@@ -262,24 +266,7 @@
                 link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-asus/noutbuk-asus-rog-strix-scar-16-2024-core-i932gb-ram1tbrtx-4090'
             },
             {
-                name: 'Dell XPS 17 9730 (2023)',
-                brand: 'dell',
-                memory: '1TB',
-                ram: '16GB',
-                processor: 'intel7',
-                gpu: 'nvidia',
-                hz: '60Hz',
-                videomemory: 'video6',
-                images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/141656/3205740-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/141656/3205741-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/141656/3205743-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/141656/3205744-1397x1397.jpg.webp'
-                ],
-                link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-dell/noutbuk-dell-xps-17-9730-intel-core-i7-16gb-1tb-rtx-4050-j4tpx-global'
-            },
-            {
-                name: 'MacBook Air 15 Retina, Midnight (2023)',
+                name: 'MacBook Air 13, Midnight (2022)',
                 brand: 'apple',
                 memory: '256GB',
                 ram: '8GB',
@@ -288,11 +275,29 @@
                 gpu: 'gpuapple2',
                 hz: '60Hz',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/06/052251/1%20(7)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/06/061003/3-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2023/06/061003/2-1397x1397.jpg.webp'
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/d9/e7/macbook-air-13-m2-2022-8gb-512gb-z160000gh_8f73c0ca-d94e-44db-aca5-61d45bbe0bfc-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/de/3a/macbook-air-13-m2-2022-8gb-512gb-z160000gh_8f73c0ca-d94e-44db-aca5-61d45bbe0bfc-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/b5/ea/macbook-air-13-m2-2022-8gb-512gb-z160000gh_8f73c0ca-d94e-44db-aca5-61d45bbe0bfc-3.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/ea/52/macbook-air-13-m2-2022-8gb-512gb-z160000gh_8f73c0ca-d94e-44db-aca5-61d45bbe0bfc-4.png.webp'
                 ],
-                link: 'https://jabko.ua/mac/macbook-air/apple-macbook-air-15-2023/macbook-air-15-retina--midnight--256gb--2023-'
+                link: 'https://yabloki.ua/macbook-air-13-m2-2022-8gb-512gb-z160000gh-48982-103de4c0.html'
+            },
+            {
+                name: 'HP Victus 15-fa0023ua AG (2023)',
+                brand: 'hp',
+                memory: '512GB',
+                ram: '16GB',
+                series: 'victus',
+                processor: 'intel5',
+                gpu: 'nvidia',
+                hz: '144Hz',
+                videomemory: 'video4',
+                images: [
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/6b/b3/noutbuk-15-6-hp-victus-15-fa0023ua-ag-a0nv6ea-intel-i5-12450h-16gb-512gb-ssd-nvd3050-4-dos-black_43da69df-df7f-43c2-97ff-deaea274d06c-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/23/06/noutbuk-15-6-hp-victus-15-fa0023ua-ag-a0nv6ea-intel-i5-12450h-16gb-512gb-ssd-nvd3050-4-dos-black_43da69df-df7f-43c2-97ff-deaea274d06c-4.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/de/50/noutbuk-15-6-hp-victus-15-fa0023ua-ag-a0nv6ea-intel-i5-12450h-16gb-512gb-ssd-nvd3050-4-dos-black_43da69df-df7f-43c2-97ff-deaea274d06c-4.png.webp'
+                ],
+                link: 'https://yabloki.ua/noutbuk-15-6-hp-victus-15-fa0023ua-ag-a0nv6ea-intel-i5-12450h-16gb-512gb-ssd-nvd3050-4-dos-black-58500.html'
             },
             {
                 name: 'Lenovo Legion 5 Pro 16IRX9 (2024)',
@@ -329,7 +334,7 @@
                 link: 'https://jabko.ua/mac/macbook-pro/macbook-pro-14-apple-m3/apple-macbook-pro-14-apple-m3-pro-512gb-11-cpu-14-gpu-18gb-ram-space-black-2023-mrx33'
             },
             {
-                name: 'Apple MacBook Pro 13, Space Gray (2022)',
+                name: 'Apple MacBook Pro 13, (Space Gray) (2022)',
                 brand: 'apple',
                 memory: '512GB',
                 ram: '8GB',
@@ -379,19 +384,22 @@
                 link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-asus/noutbuk-asus-vivobook-15-oled-r1505za-intel-core-i7-24gb-2tb-iris-xe-r1505za-l1185-global'
             },
             {
-                name: 'Lenovo ThinkPad T14 Gen 4 (2023)',
+                name: 'Lenovo IdeaPad Gaming 3 15ACH6 (2023)',
                 brand: 'lenovo',
                 memory: '2TB',
                 ram: '32GB',
-                series: 'thinkpad',
-                processor: 'intel5',
-                hz: '60Hz',
+                series: 'ideapad',
+                processor: 'ryzen5',
+                gpu: 'nvidia',
+                hz: '144Hz',
+                videomemory: 'video4',
                 images: [
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/131605/ThinkPad1.jpg-(1)-(1)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/131605/ThinkPad2.jpg-(1)-(1)-1397x1397.jpg.webp',
-                    'https://img.jabko.ua/image/cache/catalog/products/2024/08/131605/ThinkPad51.jpg-(1)-(1)-1397x1397.jpg.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/fb/ea/noutbuk-15-6-lenovo-ideapad-gaming-3-15ach6-82k20273ra-amd-r5-5500h-16gb-512-ssd-rtx2050-4gb-dos-black_aeef22ed-29ba-49e7-9dfe-52739b9f3de4-1.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/45/17/noutbuk-15-6-lenovo-ideapad-gaming-3-15ach6-82k20273ra-amd-r5-5500h-16gb-512-ssd-rtx2050-4gb-dos-black_aeef22ed-29ba-49e7-9dfe-52739b9f3de4-2.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/95/c0/noutbuk-15-6-lenovo-ideapad-gaming-3-15ach6-82k20273ra-amd-r5-5500h-16gb-512-ssd-rtx2050-4gb-dos-black_aeef22ed-29ba-49e7-9dfe-52739b9f3de4-3.png.webp',
+                    'https://yabloki.ua/media/cache/sylius_shop_product_original/8c/54/noutbuk-15-6-lenovo-ideapad-gaming-3-15ach6-82k20273ra-amd-r5-5500h-16gb-512-ssd-rtx2050-4gb-dos-black_aeef22ed-29ba-49e7-9dfe-52739b9f3de4-4.png.webp',
                 ],
-                link: 'https://jabko.ua/gadzheti-i-drugoe/kompjuteri-i-noutbuki/noutbuki/noutbuki-lenovo/noutbuk-lenovo-thinkpad-t14-gen-4-intel-core-i5-32gb-2tb-iris-xe-21hd00055rm-global'
+                link: 'https://yabloki.ua/noutbuk-15-6-lenovo-ideapad-gaming-3-15ach6-82k20273ra-amd-r5-5500h-16gb-512-ssd-rtx2050-4gb-dos-black-56492.html'
             }
         ];
 
@@ -474,11 +482,11 @@
 
         function filterProducts() {
             const filters = {
-                brand: ['asus', 'acer', 'dell', 'lenovo', 'apple'].filter(b => document.getElementById(`${b}Checkbox`)?.checked),
+                brand: ['asus', 'acer', 'hp', 'lenovo', 'apple'].filter(b => document.getElementById(`${b}Checkbox`)?.checked),
                 memory: ['256GB', '512GB', '1TB', '2TB', '3TB', '4TB'].filter(m => document.getElementById(`memory${m}Checkbox`)?.checked),
                 ram: ['8GB', '16GB', '18GB', '24GB', '32GB', '64GB', '96GB'].filter(r => document.getElementById(`ram${r}Checkbox`)?.checked),
                 hz: ['60Hz', '90Hz', '120Hz', '144Hz', '165Hz', '240Hz'].filter(h => document.getElementById(`${h}Checkbox`)?.checked),
-                series: ['legion', 'nitro', 'thinkpad', 'rogstrix', 'vivobook', 'macbook'].filter(s => document.getElementById(`${s}Checkbox`)?.checked),
+                series: ['legion', 'nitro', 'victus', 'rogstrix', 'vivobook', 'macbook', 'ideapad'].filter(s => document.getElementById(`${s}Checkbox`)?.checked),
                 gpu: ['radeon', 'nvidia', 'gpuapple2', 'gpuapple3pro'].filter(g => document.getElementById(`${g}Checkbox`)?.checked),
                 processor: ['intel5', 'intel7', 'intel9', 'ryzen5', 'ryzen7', 'ryzen9', 'm2', 'm3', 'm4'].filter(p => document.getElementById(`${p}Checkbox`)?.checked),
                 videomemory: ['video4', 'video6', 'video8', 'video12', 'video16'].filter(v => document.getElementById(`${v}Checkbox`)?.checked),
